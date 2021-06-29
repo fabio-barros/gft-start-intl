@@ -7,6 +7,7 @@ namespace Question_2
     class Program
     {
         private static List<double> _userNumbers = new List <double>();
+
         static void Main(string[] args)
         {
             TakeUserInput();
