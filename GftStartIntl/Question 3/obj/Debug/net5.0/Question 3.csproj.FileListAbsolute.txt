@@ -1,0 +1,16 @@
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\bin\Debug\net5.0\Question 3.exe
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\bin\Debug\net5.0\Question 3.deps.json
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\bin\Debug\net5.0\Question 3.runtimeconfig.json
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\bin\Debug\net5.0\Question 3.runtimeconfig.dev.json
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\bin\Debug\net5.0\Question 3.dll
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\bin\Debug\net5.0\ref\Question 3.dll
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\bin\Debug\net5.0\Question 3.pdb
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\Question 3.csprojAssemblyReference.cache
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\Question 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\Question 3.AssemblyInfoInputs.cache
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\Question 3.AssemblyInfo.cs
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\Question 3.csproj.CoreCompileInputs.cache
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\Question 3.dll
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\ref\Question 3.dll
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\Question 3.pdb
+F:\GitHub\gft-start-intl\GftStartIntl\Question 3\obj\Debug\net5.0\Question 3.genruntimeconfig.cache
